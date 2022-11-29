@@ -4,3 +4,4 @@ spring:
       server:
         git:
           uri: ${HOME}/WorkShop_Project/SpringBoot/config-server
+        bootstrap: true
